@@ -51,7 +51,8 @@ ER Diagram:
 
 Schema Diagram: 
 
- ![image] ![](white) (https://user-images.githubusercontent.com/61575111/183556456-bfc143ad-31d0-4adb-bb62-ff2dd40eaf64.png)
+ ![](white) 
+ ![image] (https://user-images.githubusercontent.com/61575111/183556456-bfc143ad-31d0-4adb-bb62-ff2dd40eaf64.png)
 
 
 Functionality
