@@ -2,8 +2,6 @@
 Database Project
 
 
-                        ![image](https://user-images.githubusercontent.com/61575111/183557357-d11559d4-ff36-4558-afac-3d8e8567f93c.png)
-
  
                               KHULNA UNIVERSITY OF ENGINEERING & TECHNOLOGY
                               Department of Computer Science and Engineering (CSE)
